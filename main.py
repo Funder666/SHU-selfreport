@@ -10,7 +10,7 @@ from fstate_generator import generate_fstate_day, generate_fstate_halfday, get_l
 from login import login
 
 NEED_BEFORE = True  # 如需补报则置为True，否则False
-START_DT = dt.datetime(2020, 10, 10)  # 需要补报的起始日期
+START_DT = dt.datetime(2021, 5, 25)  # 需要补报的起始日期
 
 
 # 获取东八区时间
